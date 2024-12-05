@@ -36,6 +36,8 @@
 5. **Submission and Thank You Page**:
    - Once all questions have been answered and recorded, users submit their responses.
    - The system then directs the user to a **Thank You** page confirming the successful submission of their interview session.
+   - ![image](https://github.com/user-attachments/assets/ccb52c13-0da2-4af5-8f9d-e57db91022d1)
+
 
 ## Features
 
